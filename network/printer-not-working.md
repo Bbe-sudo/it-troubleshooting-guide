@@ -1,6 +1,12 @@
 # 🖨️ Printer Not Working
 
 **Objective:** To resolve document stuck in queue, hardware connectivity issues, and driver-related failures.
+###  Common Causes
+|Potential Cause | Description |
+| :--- | :--- |
+| **Stale Jobs** |A corrupted print file is blocking the queue for all other documents.| 
+| **Driver Mismatch** | The OS is trying to use generic drivers for a specialized printer. |
+| **Network IP Shift** | The printer's IP changed, but the computer is still looking for the old one. |
 
 ## 🔄 Step 1: Restart Print Spooler
 Often, the software service managing the print queue hangs and needs a reset.
