@@ -20,7 +20,7 @@ This repository demonstrates my ability to:
 - [Fixing Network Issues](network/fixing-network-issues.md)
 
 ### 🖨️ Printers
-- [Printer Not Working](printers/printer-not-working.md)
+- [Printer Not Working](printer/printer-not-working.md)
 
 ### 💻 Performance
 - [Slow Computer](performance/slow-computer.md)
