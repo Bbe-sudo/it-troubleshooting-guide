@@ -2,6 +2,13 @@
 
 A collection of structured troubleshooting guides for common IT issues.
 
+| **IT Support Specialist | Documentation & Systems Optimization** |
+
+| **Passionate about streamlining technical support through structured workflows and clear documentation.** |
+| 🛠️ Currently building a library of IT Troubleshooting Playbooks to reduce downtime and improve resolution rates. |
+|  Skilled in Windows/Linux environments, network diagnostics, and hardware lifecycle management. |
+| 🤝 Let’s connect if you value "fixing it right the first time." |
+
 ## Purpose
 This repository demonstrates my ability to:
 - Diagnose technical problems
@@ -26,3 +33,7 @@ Each guide follows:
 3. Test connectivity
 4. Apply fixes
 5. Verify resolution
+
+##  Notes
+- Documented as part of IT support best practices
+- Designed for real-world troubleshooting scenarios
