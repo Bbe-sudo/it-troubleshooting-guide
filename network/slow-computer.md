@@ -1,12 +1,19 @@
 # 💻 Slow Computer / System Optimization
 
 **Objective:** To identify resource bottlenecks and optimize system performance through hardware and software management.
+## 🔍 Symptoms
+- Programs take long to open
+- System freezes or lags
+- High CPU or disk usage
+
 ###  Common Causes
 | Potential Cause | Description |
 | :--- | :--- |
 | **Resource Hogging** | Background apps (like Chrome or Antivirus) consuming 90%+ CPU/RAM. |
 | **Disk Fragmentation** | Hard drive is struggling to find file fragments (mostly for older HDDs). |
 | **System Corruption** | Windows system files have become unstable due to an improper shutdown. |
+
+## Troubleshootiing steps
 
 ## 📊 Step 1: Analyze Resource Usage
 Identify if the slowdown is caused by CPU, Memory (RAM), or Disk I/O.
@@ -34,3 +41,13 @@ Ensure the OS files themselves aren't corrupted.
 - **Action:** Open Command Prompt as Administrator and run:
   `sfc /scannow`
 - **Goal:** This repairs corrupted system files that may be causing "hangs" or freezes.
+
+## ✅ Resolution
+- Improved system performance
+- Reduced resource usage
+
+## 🚨 When to Escalate
+- Disk usage stays at 100% continuously
+- Suspected hardware failure (HDD/SSD)
+- Malware cannot be removed
+- System still slow after all steps
