@@ -23,7 +23,7 @@ This repository demonstrates my ability to:
 - [Printer Not Working](printer/printer-not-working.md)
 
 ### 💻 Performance
-- [Slow Computer](performance/slow-computer.md)
+- [Slow Computer](update/slow-computer.md)
 
 ## Methodology
 Each guide follows:
