@@ -2,13 +2,13 @@
 
 **Objective:** To diagnose and resolve local connectivity and internet access problems.
 
-### Common Causes
-
 | Potential Cause | Description |
 | :--- | :--- |
 | **DHCP Failure** | Device isn't receiving an IP address from the router. |
 | **DNS Issues** | Local network is fine, but the browser can't "find" website names. |
 | **Hardware Link** | Damaged Ethernet cable or a disabled Wi-Fi adapter. |
+
+## Troubleshooting Steps
 
 ## 🔍 Step 1: Check IP Configuration
 Verify the device has a valid IP address.
@@ -33,3 +33,13 @@ A hard reset of the local hardware.
 2. Select **Disable** on the active adapter.
 3. Wait 5 seconds and select **Enable**.
 
+## ✅ Resolution
+- Renew IP address
+- Restore connectivity
+- Fix DNS issues
+  
+## 🚨 When to Escalate
+- Multiple users affected (possible network outage)
+- Gateway unreachable after restart
+- No IP assigned after troubleshooting
+- Suspected ISP outage or hardware failure
