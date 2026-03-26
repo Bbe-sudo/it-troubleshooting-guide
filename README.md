@@ -17,7 +17,7 @@ This repository demonstrates my ability to:
 ## 📚 Playbooks
 
 ### 🌐 Network Issues
-- Fixing Network Issues
+- [Fixing Network Issues](network/fixing-network-issues.md)
 
 ### 🖨️ Printers
 - Printer Not Working
