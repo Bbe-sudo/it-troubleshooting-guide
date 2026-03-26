@@ -1,6 +1,12 @@
 # 💻 Slow Computer / System Optimization
 
 **Objective:** To identify resource bottlenecks and optimize system performance through hardware and software management.
+###  Common Causes
+| Potential Cause | Description |
+| :--- | :--- |
+| **Resource Hogging** | Background apps (like Chrome or Antivirus) consuming 90%+ CPU/RAM. |
+| **Disk Fragmentation** | Hard drive is struggling to find file fragments (mostly for older HDDs). |
+| **System Corruption** | Windows system files have become unstable due to an improper shutdown. |
 
 ## 📊 Step 1: Analyze Resource Usage
 Identify if the slowdown is caused by CPU, Memory (RAM), or Disk I/O.
