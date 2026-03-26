@@ -2,6 +2,14 @@
 
 **Objective:** To diagnose and resolve local connectivity and internet access problems.
 
+### Common Causes
+
+| Potential Cause | Description |
+| :--- | :--- |
+| **DHCP Failure** | Device isn't receiving an IP address from the router. |
+| **DNS Issues** | Local network is fine, but the browser can't "find" website names. |
+| **Hardware Link** | Damaged Ethernet cable or a disabled Wi-Fi adapter. |
+
 ## 🔍 Step 1: Check IP Configuration
 Verify the device has a valid IP address.
 - **Windows:** `ipconfig`
